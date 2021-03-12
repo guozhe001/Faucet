@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-3.0
 pragma solidity =0.8.0;
 
 import './Faucet.sol';
@@ -13,7 +14,7 @@ contract Token is nortal {
      2、你也不知道Faucet的withdraw方法是不是你想象的那种逻辑
     */ 
     constructor(address _f) {
-        _faucet = Faucet(_f);
+        _faucet = Faucet(payable(_f));
         _faucet.withdraw(0.1 ether);
     }
 

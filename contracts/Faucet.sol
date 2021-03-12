@@ -22,7 +22,6 @@ contract nortal is owned {
     function destroy() external onlyOwner {
         selfdestruct(payable(owner));
     }
-
 }
 
 // my first contract
