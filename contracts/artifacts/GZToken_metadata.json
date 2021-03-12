@@ -261,19 +261,19 @@
 	},
 	"sources": {
 		"localhost/code/open-source/my-projects/etherum/Faucet/contracts/ERC20Interface.sol": {
-			"keccak256": "0xe3034c8ad02d400d226b8b0b310bd231a7aef0ab3c875297cd01f1eb14a2be10",
+			"keccak256": "0x3818843269c16b5a4278546d75af64378340fe320123b4b2554b4f4136c95543",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://eed7dba67462e4e5d38ab4d34ec8933dbeb68a1694533c3965e1ead6c71bc328",
-				"dweb:/ipfs/QmVFqKQRwqbHpXqzsa7fcvwLZp8AQSD5BuUTDBeDP8gdtE"
+				"bzz-raw://a878b2424de774c8eff5593e6b72c7c5198235109f6755fe9f7575b3d035b12f",
+				"dweb:/ipfs/QmXwJxtx5hLHKfQnX7LZiAkFzDvPqo66osmJoCCNnh8RgQ"
 			]
 		},
 		"localhost/code/open-source/my-projects/etherum/Faucet/contracts/GZToken.sol": {
-			"keccak256": "0x052545c87cac5a80313925884327a2a55a848ef178f3e3b4faa23db94dfce3e9",
+			"keccak256": "0x30037f74cde8f83fa442f46b576c34ad4317fd17573d3c0da36737639a33a363",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://902e98f480bd05481b4033b401c97eb06226a7b8791be7bc441f1e94fa73af9b",
-				"dweb:/ipfs/QmTKtfcTouf33FpmiGAks9f4QRzCQR2AaNkEnDMXPEWt6c"
+				"bzz-raw://7f965ada2a9043136f8a4beba5208af6ffb2df9bb47d869828c3cfaa28231f8e",
+				"dweb:/ipfs/QmXPHYQfzRvL8u1MHWv4R4cFRSv84YgMwJ8U31sSbhMcMK"
 			]
 		}
 	},
