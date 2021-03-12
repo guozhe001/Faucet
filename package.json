@@ -16,5 +16,10 @@
     "ethereumjs-wallet": "^1.0.1",
     "solc": "^0.4.26",
     "truffle-wallet-provider": "^0.0.5"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.6",
+    "solhint": "^3.3.3"
   }
 }

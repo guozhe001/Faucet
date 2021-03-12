@@ -1,4 +1,7 @@
 pragma solidity =0.8.0;
+
+import './Faucet.sol';
+
 contract Token is nortal {
 
     Faucet _faucet;
@@ -8,7 +11,7 @@ contract Token is nortal {
         _faucet = (new Faucet).value(0.5 ether)();
     }
 
-    function destroy () onlyOwner {
+    function destroy () public onlyOwner {
         _faucet.destroy();
     }
 
