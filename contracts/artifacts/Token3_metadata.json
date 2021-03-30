@@ -26,7 +26,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/contracts/Faucet.sol": "nortal"
+			"contracts/Token3.sol": "Token3"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -40,12 +40,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"localhost/contracts/Faucet.sol": {
+		"contracts/Faucet.sol": {
 			"keccak256": "0x7e4c454bacc80290890d57e936b6bad16bc11bcf6ebd3ca80fe2492fab7f0927",
 			"license": "GPL-3.0",
 			"urls": [
 				"bzz-raw://a321ee88e5972a88d375ab8a8d4af2787cbc06e1af0c25a71aa32101d1a38dd5",
 				"dweb:/ipfs/QmVNv3JBEyMYNta2bmDXTjq1TCytHPk7KwJZrzTRh3X8Dj"
+			]
+		},
+		"contracts/Token3.sol": {
+			"keccak256": "0xa17b7f8ef592b82620b8eef5b67f89c1b6dc53942db56843a30a96c87bc2e571",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c0a1e9af24a81f27cd4291ff1016da397cafa27c85e15cb5a215bf162c197cd9",
+				"dweb:/ipfs/QmWyE3PVbB7q5nj6Uj62Df3WpKzRJgCkjKC6TedgxohXni"
 			]
 		}
 	},

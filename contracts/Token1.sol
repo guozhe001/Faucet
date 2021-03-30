@@ -3,7 +3,7 @@ pragma solidity=0.8.0;
 
 import './Faucet.sol';
 
-contract Token is nortal {
+contract Token1 is nortal {
 
     Faucet _faucet;
 

@@ -81,7 +81,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/code/open-source/my-projects/etherum/Faucet/contracts/Faucet.sol": "Faucet"
+			"localhost/contracts/Faucet.sol": "Faucet"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -95,7 +95,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"localhost/code/open-source/my-projects/etherum/Faucet/contracts/Faucet.sol": {
+		"localhost/contracts/Faucet.sol": {
 			"keccak256": "0x7e4c454bacc80290890d57e936b6bad16bc11bcf6ebd3ca80fe2492fab7f0927",
 			"license": "GPL-3.0",
 			"urls": [

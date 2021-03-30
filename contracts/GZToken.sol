@@ -19,7 +19,6 @@ contract GZToken is ERC20Interface {
     mapping (address => mapping (address => uint256)) private allowed;
     
     constructor () {
-      
         balances[msg.sender] = totalSupply;
     }
 

@@ -6,6 +6,17 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_f",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
 				"inputs": [],
 				"name": "destroy",
 				"outputs": [],
@@ -26,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/contracts/Faucet.sol": "nortal"
+			"contracts/Token2.sol": "Token2"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -40,12 +51,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"localhost/contracts/Faucet.sol": {
+		"contracts/Faucet.sol": {
 			"keccak256": "0x7e4c454bacc80290890d57e936b6bad16bc11bcf6ebd3ca80fe2492fab7f0927",
 			"license": "GPL-3.0",
 			"urls": [
 				"bzz-raw://a321ee88e5972a88d375ab8a8d4af2787cbc06e1af0c25a71aa32101d1a38dd5",
 				"dweb:/ipfs/QmVNv3JBEyMYNta2bmDXTjq1TCytHPk7KwJZrzTRh3X8Dj"
+			]
+		},
+		"contracts/Token2.sol": {
+			"keccak256": "0x1498566f6c3688f51aad64efbbbf5e2dc298fd5ce29ce524c9548a9958de7be2",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://0022202e4f278b8d0101bbd6ffbbf454a98a4dac7bf2a7146d4e45f2a7b6abfd",
+				"dweb:/ipfs/QmZw6Fg1vzH8Xk1gpcR75ZJZegXR4j6BANR8Viqi7i8MzD"
 			]
 		}
 	},

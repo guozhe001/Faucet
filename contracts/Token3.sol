@@ -3,7 +3,7 @@ pragma solidity =0.8.0;
 
 import './Faucet.sol';
 
-contract Token is nortal {
+contract Token3 is nortal {
 
     // constructor (address _faucet) {
     //     _faucet.call("withdraw", 0.1 ether);
